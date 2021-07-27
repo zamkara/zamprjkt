@@ -6,6 +6,9 @@
   <samp>#EuyGank</samp>
 </p>
 <p>
+  <a href="nurzam891.github.io">
+    <img src="https://img.shields.io/badge/website-here-brightgreen/?style=flat-square&logo=logo" alt="Website">
+  </a>
   <a href="mailto: nurzam891@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&labelColor=2d2d2d" alt="Gmail">
   </a>
