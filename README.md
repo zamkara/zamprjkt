@@ -1,9 +1,9 @@
 # Hi! I'm Zam°
 <p>
-  <b>Informatics student, technology enthusiast, and a normal human</b>
+  <b>aaaah. Yamete Kuda sai >_<</b>
   <br>
   <br>
-  <samp>#GNU/Weeb</samp>
+  <samp>#EuyGank</samp>
 </p>
 <p>
   <a href="mailto: nurzam891@gmail.com">
