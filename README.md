@@ -1,4 +1,4 @@
-# Hi! I'm Zam°
+# Hi! I'm Kiko°
 <p>
   <b>aaaah. Yamete Kuda sai >_<</b>
   <br>
@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=2d2d2d" alt="Telegram">
   </a>
 </p>
-
+![Honkai repo stats](https://github-readme-stats.vercel.app/api?username=zamprjkt&count_private=false&show_icons=true&&bg_color=30,165880,169c5a&title_color=fff&text_color=fff)
+!['s github stats](https://github-readme-stats.vercel.app/api?username=zamprjkt&count_private=false&show_icons=true&&bg_color=30,165880,169c5a&title_color=fff&text_color=fff)
 <!--
 **nurzam891/nurzam891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
