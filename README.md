@@ -7,7 +7,7 @@
 </p>
 <p>
   <a href="mailto:zamprjkt@protonmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&labelColor=2d2d2d" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&labelColor=2d2d2d" alt="Mail">
   </a>
   <a href="https://www.instagram.com/zam.tsu">
     <img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&labelColor=2d2d2d" alt="Instagram">
