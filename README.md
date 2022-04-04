@@ -6,13 +6,13 @@
   <samp>#EuyGank</samp>
 </p>
 <p>
-  <a href="mailto: nurzam891@gmail.com">
+  <a href="mailto:zamprjkt@protonmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&labelColor=2d2d2d" alt="Gmail">
   </a>
-  <a href="https://www.instagram.com/nurza_alpha">
+  <a href="https://www.instagram.com/zam.tsu">
     <img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&labelColor=2d2d2d" alt="Instagram">
   </a> 
-  <a href="https://t.me/naalpha">
+  <a href="https://t.me/zamkara">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=2d2d2d" alt="Telegram">
   </a>
 </p>
