@@ -4,7 +4,7 @@
 > zam@zamkaras-MacBook-Pro.local:~$ neofetch
 ```
 
-<img align="left" src="waifu.png" width="130px" href="#"/> 
+<img align="left" src="ehe.png" width="169px" href="#"/> 
 
 ```javascript
 zam@zamkaras-MacBook-Pro.local
@@ -23,4 +23,4 @@ Memory: 8192MiB
 
 > zam@zamkaras-MacBook-Pro.local:~$ rm -rf /
 ```
-<h2 align="center">Tools</h2>
+<h2 align="center">E.H.E</h2>
