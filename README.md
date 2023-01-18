@@ -1,10 +1,13 @@
 <h2>About me</h2>
+<p align="center">
+  <img src="https://github.com/zamprjkt/zamprjkt/blob/main/zamkara.png"><br>
+ </p>
 
 ```javascript
 > zam@zamkaras-MacBook-Pro.local:~$ neofetch
 ```
 
-<img align="left" src="uVVu.png" width="169px" href="#"/> 
+<img align="left" img src="https://i.imgur.com/QXGKXqE.png" width="169px" href="#"/> 
 
 ```javascript
 zam@zamkaras-MacBook-Pro.local
