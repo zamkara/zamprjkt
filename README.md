@@ -21,6 +21,6 @@ CPU: 5th Gen Intel(R) Core(TM) Intel i5-5300U (4) @ 2.30GHz
 GPU: Intel(R) HD Graphics
 Memory: 8192MiB
 
-> zam@zamkaras-MacBook-Pro.local:~$ packages
+> zam@zamkaras-MacBook-Pro.local:~$ rm -rf /
 ```
 <h2 align="center">Tools</h2>
