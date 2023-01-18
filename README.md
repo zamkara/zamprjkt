@@ -1,6 +1,6 @@
 <h2>About me</h2>
 <p align="center">
-  <img src="https://github.com/zamprjkt/zamprjkt/blob/main/zamkara.png"><br>
+  <img src="https://github.com/zamprjkt/zamprjkt/blob/main/banner.png" high="50px" href="#" ><br>
  </p>
 
 ```javascript
