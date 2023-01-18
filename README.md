@@ -4,7 +4,7 @@
 > zam@zamkaras-MacBook-Pro.local:~$ neofetch
 ```
 
-<img align="left" src="ehe.png" width="169px" href="#"/> 
+<img align="left" src="uVVu.png" width="169px" href="#"/> 
 
 ```javascript
 zam@zamkaras-MacBook-Pro.local
