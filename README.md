@@ -1,13 +1,13 @@
 <h2>About me</h2>
 <p align="center">
-  <img src="https://github.com/zamprjkt/zamprjkt/blob/main/banner.png" high="50px" href="#" ><br>
+  <img src="https://i.imgur.com/Hluey0B.png" high="50px" ><br>
  </p>
 
 ```javascript
 > zam@zamkaras-MacBook-Pro.local:~$ neofetch
 ```
 
-<img align="left" img src="https://i.imgur.com/QXGKXqE.png" width="145px" href="#"/> 
+<img align="left" img src="https://i.imgur.com/qDySTk4.png" width="145px" href="#"/> 
 
 ```javascript
 zam@zamkaras-MacBook-Pro.local
